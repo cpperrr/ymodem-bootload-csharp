@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\CMSIS\Core\CM3 -I..\user\inc -I..\STM32F10x_StdPeriph_Driver\inc
+-I "C:\2017 work\py_work\rs485-loader-py\stm32 ymodem mcu\Project\RTE"
+-I C:\Keil_v5-STM32\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include
+-I C:\Keil_v5-STM32\ARM\CMSIS\Include
+-D__UVISION_VERSION="516" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210E_EVAL
+-o .\stm32f10x_exti.o --omf_browse .\stm32f10x_exti.crf --depend .\stm32f10x_exti.d --feedback ".\Project.fed" "..\STM32F10x_StdPeriph_Driver\src\stm32f10x_exti.c"

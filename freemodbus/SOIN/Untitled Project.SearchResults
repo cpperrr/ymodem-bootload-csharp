@@ -1,0 +1,5 @@
+---- EV_FRAME_RECEIVED Matches (4 in 4 files) ----
+Mb.c (f:\学习资料\stm32\stm32畅学版\示例程序\10.485modbus多机通信\485modbus多机通信\user\freemodbus\modbus):        case EV_FRAME_RECEIVED:
+Mbascii.c (f:\学习资料\stm32\stm32畅学版\示例程序\10.485modbus多机通信\485modbus多机通信\user\freemodbus\modbus\ascii):            xNeedPoll = xMBPortEventPost( EV_FRAME_RECEIVED );
+Mbport.h (f:\学习资料\stm32\stm32畅学版\示例程序\10.485modbus多机通信\485modbus多机通信\user\freemodbus\modbus\include):    EV_FRAME_RECEIVED,          /*!< Frame received. */
+Mbrtu.c (f:\学习资料\stm32\stm32畅学版\示例程序\10.485modbus多机通信\485modbus多机通信\user\freemodbus\modbus\rtu):        xNeedPoll = xMBPortEventPost( EV_FRAME_RECEIVED );

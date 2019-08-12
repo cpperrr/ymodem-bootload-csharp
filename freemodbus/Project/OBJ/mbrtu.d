@@ -1,0 +1,13 @@
+.\obj\mbrtu.o: ..\User\FreeModbus\modbus\rtu\mbrtu.c
+.\obj\mbrtu.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\mbrtu.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\string.h
+.\obj\mbrtu.o: ..\User\FreeModbus\port\port.h
+.\obj\mbrtu.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\assert.h
+.\obj\mbrtu.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\inttypes.h
+.\obj\mbrtu.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\mbrtu.o: ..\User\FreeModbus\modbus\include\mb.h
+.\obj\mbrtu.o: ..\User\FreeModbus\modbus\include\mbport.h
+.\obj\mbrtu.o: ..\User\FreeModbus\modbus\include\mbproto.h
+.\obj\mbrtu.o: ..\User\FreeModbus\modbus\rtu\mbrtu.h
+.\obj\mbrtu.o: ..\User\FreeModbus\modbus\include\mbframe.h
+.\obj\mbrtu.o: ..\User\FreeModbus\modbus\rtu\mbcrc.h

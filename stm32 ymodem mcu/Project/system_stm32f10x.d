@@ -1,0 +1,14 @@
+.\system_stm32f10x.o: ..\CMSIS\Core\CM3\system_stm32f10x.c
+.\system_stm32f10x.o: ..\CMSIS\Core\CM3\stm32f10x.h
+.\system_stm32f10x.o: ..\CMSIS\Core\CM3\core_cm3.h
+.\system_stm32f10x.o: C:\Keil_v5-STM32\ARM\ARMCC\Bin\..\include\stdint.h
+.\system_stm32f10x.o: ..\CMSIS\Core\CM3\system_stm32f10x.h
+.\system_stm32f10x.o: ..\user\inc\stm32f10x_conf.h
+.\system_stm32f10x.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\system_stm32f10x.o: ..\CMSIS\Core\CM3\stm32f10x.h
+.\system_stm32f10x.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\system_stm32f10x.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\system_stm32f10x.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\system_stm32f10x.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\system_stm32f10x.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\system_stm32f10x.o: ..\STM32F10x_StdPeriph_Driver\inc\misc.h

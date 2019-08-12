@@ -1,0 +1,12 @@
+.\obj\mbfuncdisc.o: ..\User\FreeModbus\modbus\functions\mbfuncdisc.c
+.\obj\mbfuncdisc.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\mbfuncdisc.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\string.h
+.\obj\mbfuncdisc.o: ..\User\FreeModbus\port\port.h
+.\obj\mbfuncdisc.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\assert.h
+.\obj\mbfuncdisc.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\inttypes.h
+.\obj\mbfuncdisc.o: C:\Keil_v5-2016-9-8\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\mbfuncdisc.o: ..\User\FreeModbus\modbus\include\mb.h
+.\obj\mbfuncdisc.o: ..\User\FreeModbus\modbus\include\mbport.h
+.\obj\mbfuncdisc.o: ..\User\FreeModbus\modbus\include\mbproto.h
+.\obj\mbfuncdisc.o: ..\User\FreeModbus\modbus\include\mbframe.h
+.\obj\mbfuncdisc.o: ..\User\FreeModbus\modbus\include\mbconfig.h

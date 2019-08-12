@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I ..\User\inc -I ..\Libraries\CMSIS\CoreSupport -I ..\Libraries\CMSIS\DeviceSupport -I ..\Libraries\StdPeriph_Driver\inc -I ..\User\FreeModbus\port -I ..\User\FreeModbus\modbus\tcp -I ..\User\FreeModbus\modbus\rtu -I ..\User\FreeModbus\modbus\include -I ..\User\FreeModbus\modbus\functions -I ..\User\FreeModbus\modbus\ascii
+-Id:\desk\freemodbus°ü\Project\RTE
+-IC:\Keil_v5-2016-9-8\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include
+-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210E_EVAL
+-o .\obj\stm32f10x_can.o --omf_browse .\obj\stm32f10x_can.crf --depend .\obj\stm32f10x_can.d --feedback ".\OBJ\obj.fed" "..\Libraries\StdPeriph_Driver\src\stm32f10x_can.c"

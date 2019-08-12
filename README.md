@@ -3,7 +3,7 @@
 * ymodem stm32 bootloader
 * stm32 app test
 * modbus C# pcsoft
-# ymodem bootloader pcsoft
+# ymodem bootloader pcsoft（扩展功能，目前还在完善当中，敬请期待）
 * ymodem完全兼容SecureCRT上位机
 * 同时支持段长读取
 * 断线重连

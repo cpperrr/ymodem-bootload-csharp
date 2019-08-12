@@ -1,0 +1,13 @@
+F:\modbustool\ModbusTool\ModbusSlave\bin\Debug\ModbusSlave.exe.config
+F:\modbustool\ModbusTool\ModbusSlave\bin\Debug\ModbusSlave.exe
+F:\modbustool\ModbusTool\ModbusSlave\bin\Debug\ModbusSlave.pdb
+F:\modbustool\ModbusTool\ModbusSlave\bin\Debug\Modbus.Common.dll
+F:\modbustool\ModbusTool\ModbusSlave\bin\Debug\ModbusLib.dll
+F:\modbustool\ModbusTool\ModbusSlave\bin\Debug\Modbus.Common.pdb
+F:\modbustool\ModbusTool\ModbusSlave\bin\Debug\ModbusLib.pdb
+F:\modbustool\ModbusTool\ModbusSlave\obj\x86\Debug\ModbusSlave.csprojResolveAssemblyReference.cache
+F:\modbustool\ModbusTool\ModbusSlave\obj\x86\Debug\ModbusSlave.Properties.Resources.resources
+F:\modbustool\ModbusTool\ModbusSlave\obj\x86\Debug\ModbusSlave.SlaveForm.resources
+F:\modbustool\ModbusTool\ModbusSlave\obj\x86\Debug\ModbusSlave.csproj.GenerateResource.Cache
+F:\modbustool\ModbusTool\ModbusSlave\obj\x86\Debug\ModbusSlave.exe
+F:\modbustool\ModbusTool\ModbusSlave\obj\x86\Debug\ModbusSlave.pdb

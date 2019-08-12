@@ -1,0 +1,9 @@
+F:\modbustool\ModbusTool\CommonControls\bin\Debug\Modbus.Common.dll.config
+F:\modbustool\ModbusTool\CommonControls\bin\Debug\Modbus.Common.dll
+F:\modbustool\ModbusTool\CommonControls\bin\Debug\Modbus.Common.pdb
+F:\modbustool\ModbusTool\CommonControls\obj\Debug\Modbus.Common.csprojResolveAssemblyReference.cache
+F:\modbustool\ModbusTool\CommonControls\obj\Debug\Modbus.Common.BaseForm.resources
+F:\modbustool\ModbusTool\CommonControls\obj\Debug\Modbus.Common.DataTab.resources
+F:\modbustool\ModbusTool\CommonControls\obj\Debug\Modbus.Common.csproj.GenerateResource.Cache
+F:\modbustool\ModbusTool\CommonControls\obj\Debug\Modbus.Common.dll
+F:\modbustool\ModbusTool\CommonControls\obj\Debug\Modbus.Common.pdb

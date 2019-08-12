@@ -1,0 +1,5 @@
+F:\modbustool\ModbusTool\ModbusLib\bin\Debug\ModbusLib.dll
+F:\modbustool\ModbusTool\ModbusLib\bin\Debug\ModbusLib.pdb
+F:\modbustool\ModbusTool\ModbusLib\obj\Debug\ModbusLib.dll
+F:\modbustool\ModbusTool\ModbusLib\obj\Debug\ModbusLib.pdb
+F:\modbustool\ModbusTool\ModbusLib\obj\Debug\ModbusLib.csprojResolveAssemblyReference.cache

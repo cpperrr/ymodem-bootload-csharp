@@ -1,0 +1,10 @@
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\bin\Debug\yomdem test.exe.config
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\bin\Debug\yomdem.exe.config
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\bin\Debug\yomdem.exe
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\bin\Debug\yomdem.pdb
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\obj\Debug\yomdem_test.About.resources
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\obj\Debug\yomdem_test.Form1.resources
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\obj\Debug\yomdem_test.Properties.Resources.resources
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\obj\Debug\yomdem test.csproj.GenerateResource.Cache
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\obj\Debug\yomdem.exe
+C:\Users\dell\Downloads\c-sharp-ymodem\c-sharp-ymodem\C yomdem test\yomdem test\yomdem test\obj\Debug\yomdem.pdb

@@ -1,0 +1,13 @@
+F:\modbustool\ModbusTool\ModbusMaster\bin\Debug\ModbusMaster.exe.config
+F:\modbustool\ModbusTool\ModbusMaster\bin\Debug\ModbusMaster.exe
+F:\modbustool\ModbusTool\ModbusMaster\bin\Debug\ModbusMaster.pdb
+F:\modbustool\ModbusTool\ModbusMaster\bin\Debug\Modbus.Common.dll
+F:\modbustool\ModbusTool\ModbusMaster\bin\Debug\ModbusLib.dll
+F:\modbustool\ModbusTool\ModbusMaster\bin\Debug\Modbus.Common.pdb
+F:\modbustool\ModbusTool\ModbusMaster\bin\Debug\ModbusLib.pdb
+F:\modbustool\ModbusTool\ModbusMaster\obj\x86\Debug\ModbusMaster.csprojResolveAssemblyReference.cache
+F:\modbustool\ModbusTool\ModbusMaster\obj\x86\Debug\ModbusMaster.MasterForm.resources
+F:\modbustool\ModbusTool\ModbusMaster\obj\x86\Debug\ModbusMaster.Properties.Resources.resources
+F:\modbustool\ModbusTool\ModbusMaster\obj\x86\Debug\ModbusMaster.csproj.GenerateResource.Cache
+F:\modbustool\ModbusTool\ModbusMaster\obj\x86\Debug\ModbusMaster.exe
+F:\modbustool\ModbusTool\ModbusMaster\obj\x86\Debug\ModbusMaster.pdb

@@ -1,0 +1,9 @@
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\obj\Release\yomdem_test.Form1.resources
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\obj\Release\yomdem_test.Properties.Resources.resources
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\obj\Release\yomdem test.csproj.GenerateResource.Cache
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\obj\Release\yomdem_test.About.resources
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\bin\Release\yomdem.exe.config
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\bin\Release\yomdem.exe
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\bin\Release\yomdem.pdb
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\obj\Release\yomdem.exe
+C:\2017 work\c# 代码\C# yomdem test\yomdem test\yomdem test\obj\Release\yomdem.pdb

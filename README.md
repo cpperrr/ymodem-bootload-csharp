@@ -5,7 +5,7 @@
 * modbus C# pcsoft
 # ymodem bootloader pcsoft（扩展功能，目前还在完善当中，敬请期待）
 * ymodem完全兼容SecureCRT上位机
-* 同时支持段长读取
+* 同时支持不同MCU段长设置
 * 断线重连
 * hex，bin，s19等升级文件
 * 版本自动识别自动升级（只往高版本）

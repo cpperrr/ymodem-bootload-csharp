@@ -1,0 +1,989 @@
+Dependencies for Project 'Bootloader_l073xx', Target 'Bootloader_l073xx': (DO NOT MODIFY !)
+F (../Src/gpio.c)(0x5A44EC74)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\gpio.o --omf_browse bootloader_l073xx\gpio.crf --depend bootloader_l073xx\gpio.d)
+I (../Inc/gpio.h)(0x5A44EC74)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (../Src/stm32l0xx_hal_msp.c)(0x5A44EC75)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_msp.o --omf_browse bootloader_l073xx\stm32l0xx_hal_msp.crf --depend bootloader_l073xx\stm32l0xx_hal_msp.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (../Src/stm32l0xx_it.c)(0x5A44EC75)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_it.o --omf_browse bootloader_l073xx\stm32l0xx_it.crf --depend bootloader_l073xx\stm32l0xx_it.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_it.h)(0x5A44EC75)
+F (../Src/main.c)(0x5A44EEA0)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\main.o --omf_browse bootloader_l073xx\main.crf --depend bootloader_l073xx\main.d)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+I (../Inc/crc.h)(0x5A44EDB9)
+I (../Inc/usart.h)(0x5A44ED6B)
+I (../Inc/gpio.h)(0x5A44EC74)
+I (D:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (../Inc/menu.h)(0x5524DE34)
+I (../Inc/flash_if.h)(0x5524DE34)
+I (../Inc/ymodem.h)(0x5524DE34)
+F (../Src/usart.c)(0x5A44ED6B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\usart.o --omf_browse bootloader_l073xx\usart.crf --depend bootloader_l073xx\usart.d)
+I (../Inc/usart.h)(0x5A44ED6B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+I (../Inc/gpio.h)(0x5A44EC74)
+F (../Src/crc.c)(0x5A44EDC3)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\crc.o --omf_browse bootloader_l073xx\crc.crf --depend bootloader_l073xx\crc.d)
+I (../Inc/crc.h)(0x5A44EDB9)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (..\Src\common.c)(0x5A44ED89)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\common.o --omf_browse bootloader_l073xx\common.crf --depend bootloader_l073xx\common.d)
+I (../Inc/common.h)(0x5A44ED7C)
+I (../Inc/usart.h)(0x5A44ED6B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (..\Src\flash_if.c)(0x5524DFC6)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\flash_if.o --omf_browse bootloader_l073xx\flash_if.crf --depend bootloader_l073xx\flash_if.d)
+I (../Inc/flash_if.h)(0x5524DE34)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (..\Src\menu.c)(0x5A44EF48)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\menu.o --omf_browse bootloader_l073xx\menu.crf --depend bootloader_l073xx\menu.d)
+I (../Inc/main.h)(0x5A44EC76)
+I (../Inc/common.h)(0x5A44ED7C)
+I (../Inc/usart.h)(0x5A44ED6B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+I (../Inc/flash_if.h)(0x5524DE34)
+I (../Inc/menu.h)(0x5524DE34)
+I (../Inc/ymodem.h)(0x5524DE34)
+F (..\Src\ymodem.c)(0x5A44EDB9)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\ymodem.o --omf_browse bootloader_l073xx\ymodem.crf --depend bootloader_l073xx\ymodem.d)
+I (../Inc/flash_if.h)(0x5524DE34)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+I (../Inc/common.h)(0x5A44ED7C)
+I (../Inc/usart.h)(0x5A44ED6B)
+I (../Inc/ymodem.h)(0x5524DE34)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (../Inc/menu.h)(0x5524DE34)
+I (../Inc/crc.h)(0x5A44EDB9)
+F (startup_stm32l073xx.s)(0x5A44EC7D)(--cpu Cortex-M0+ -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "STM32L073xx SETA 1"--list startup_stm32l073xx.lst --xref -o bootloader_l073xx\startup_stm32l073xx.o --depend bootloader_l073xx\startup_stm32l073xx.d)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_dma.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_dma.o --omf_browse bootloader_l073xx\stm32l0xx_hal_dma.crf --depend bootloader_l073xx\stm32l0xx_hal_dma.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_pwr.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_pwr.o --omf_browse bootloader_l073xx\stm32l0xx_hal_pwr.crf --depend bootloader_l073xx\stm32l0xx_hal_pwr.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_rcc_ex.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_rcc_ex.o --omf_browse bootloader_l073xx\stm32l0xx_hal_rcc_ex.crf --depend bootloader_l073xx\stm32l0xx_hal_rcc_ex.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_i2c_ex.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_i2c_ex.o --omf_browse bootloader_l073xx\stm32l0xx_hal_i2c_ex.crf --depend bootloader_l073xx\stm32l0xx_hal_i2c_ex.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_i2c.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_i2c.o --omf_browse bootloader_l073xx\stm32l0xx_hal_i2c.crf --depend bootloader_l073xx\stm32l0xx_hal_i2c.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_flash.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_flash.o --omf_browse bootloader_l073xx\stm32l0xx_hal_flash.crf --depend bootloader_l073xx\stm32l0xx_hal_flash.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_pwr_ex.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_pwr_ex.o --omf_browse bootloader_l073xx\stm32l0xx_hal_pwr_ex.crf --depend bootloader_l073xx\stm32l0xx_hal_pwr_ex.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_flash_ex.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_flash_ex.o --omf_browse bootloader_l073xx\stm32l0xx_hal_flash_ex.crf --depend bootloader_l073xx\stm32l0xx_hal_flash_ex.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_flash_ramfunc.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_flash_ramfunc.o --omf_browse bootloader_l073xx\stm32l0xx_hal_flash_ramfunc.crf --depend bootloader_l073xx\stm32l0xx_hal_flash_ramfunc.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_tim.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_tim.o --omf_browse bootloader_l073xx\stm32l0xx_hal_tim.crf --depend bootloader_l073xx\stm32l0xx_hal_tim.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal.o --omf_browse bootloader_l073xx\stm32l0xx_hal.crf --depend bootloader_l073xx\stm32l0xx_hal.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_cortex.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_cortex.o --omf_browse bootloader_l073xx\stm32l0xx_hal_cortex.crf --depend bootloader_l073xx\stm32l0xx_hal_cortex.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_tim_ex.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_tim_ex.o --omf_browse bootloader_l073xx\stm32l0xx_hal_tim_ex.crf --depend bootloader_l073xx\stm32l0xx_hal_tim_ex.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_uart.o --omf_browse bootloader_l073xx\stm32l0xx_hal_uart.crf --depend bootloader_l073xx\stm32l0xx_hal_uart.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_rcc.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_rcc.o --omf_browse bootloader_l073xx\stm32l0xx_hal_rcc.crf --depend bootloader_l073xx\stm32l0xx_hal_rcc.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_gpio.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_gpio.o --omf_browse bootloader_l073xx\stm32l0xx_hal_gpio.crf --depend bootloader_l073xx\stm32l0xx_hal_gpio.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_uart_ex.o --omf_browse bootloader_l073xx\stm32l0xx_hal_uart_ex.crf --depend bootloader_l073xx\stm32l0xx_hal_uart_ex.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_crc.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_crc.o --omf_browse bootloader_l073xx\stm32l0xx_hal_crc.crf --depend bootloader_l073xx\stm32l0xx_hal_crc.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_crc_ex.c)(0x5A44EA1B)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\stm32l0xx_hal_crc_ex.o --omf_browse bootloader_l073xx\stm32l0xx_hal_crc_ex.crf --depend bootloader_l073xx\stm32l0xx_hal_crc_ex.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
+F (../Src/system_stm32l0xx.c)(0x5A44EA19)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include -I C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include --C99-I.\RTE\_Bootloader_l073xx-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\1.6.1\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32L073xx -DUSE_HAL_DRIVER -DSTM32L073xx-o bootloader_l073xx\system_stm32l0xx.o --omf_browse bootloader_l073xx\system_stm32l0xx.crf --depend bootloader_l073xx\system_stm32l0xx.d)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cm0plus.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmInstr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Include/core_cmFunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x5A44EA18)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal.h)(0x5A44EA1B)
+I (../Inc/stm32l0xx_hal_conf.h)(0x5A44EC76)
+I (../Inc/main.h)(0x5A44EC76)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A44EA1B)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_dma.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_cortex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_crc_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart.h)(0x5A44EA1B)
+I (C:/Users/Administrator/STM32Cube/Repository/STM32Cube_FW_L0_V1.10.0/Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h)(0x5A44EA1B)
